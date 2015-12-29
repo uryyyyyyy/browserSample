@@ -1,0 +1,5 @@
+node_modules/
+bin/
+electronSample-darwin-x64/
+electronSample-linux-x64/
+electronSample-win32-x64/
